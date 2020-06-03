@@ -354,7 +354,7 @@ button:focus{
 	left: 0;
 	right: 0;
 	margin: auto;
-	background: url(../ClemidoImages/square\ \(28\ x\ 28\).jpg) no-repeat center; 
+	background: url(../images/menu-arrow.png) no-repeat center;
 	border-radius: 10px;
 	transition: ease all 0.3s;
 	transform: translateY(0%) rotate(140deg);
